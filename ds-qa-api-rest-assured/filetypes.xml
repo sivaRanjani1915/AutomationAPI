@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="SearchWebServicesStepSerenity" type="CLASS" />
+      <mapping pattern="OrderShippingPageSteps" type="CLASS" />
+      <mapping pattern="OrderShippingPageSteps.java" type="CLASS" />
+      <mapping pattern="HeaderUtil" type="CLASS" />
+      <mapping pattern=".lock" type="PLAIN_TEXT" />
+      <mapping pattern="SvcApi" type="PLAIN_TEXT" />
+      <mapping pattern="HeaderUtil.java" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

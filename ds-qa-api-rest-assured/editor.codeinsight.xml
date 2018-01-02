@@ -1,0 +1,7 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="net.serenitybdd.core.pages.PageObject" />
+  </component>
+</application>
